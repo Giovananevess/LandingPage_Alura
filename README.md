@@ -33,9 +33,6 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 6. Experimente fazer modificações no CSS e veja como isso afeta o layout e a aparência da página.
 
-## Recursos Adicionais
-
-- [Alura](https://www.alura.com.br/): Confira a plataforma Alura para explorar uma ampla variedade de cursos educacionais de alta qualidade.
 
 ## Conclusão
 
