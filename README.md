@@ -19,7 +19,7 @@ Se você deseja explorar ou utilizar este projeto, siga estas etapas:
 
 1. Clone este repositório para sua máquina local usando o seguinte comando:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Giovananevess/LandingPage_Alura.git)
 
 
 2. Abra o projeto em seu editor de código preferido.
